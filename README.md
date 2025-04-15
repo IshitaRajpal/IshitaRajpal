@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishita Rajpal</h1>
-<h3 align="center">Business Intelligence & Data Analyst | Dashboards | </h3>
+<h3 align="center">Business Intelligence | Data Analyst | Dashboards | Data-Driven Decision Making | KPI Tracking </h3>
 
 - 🔭 I’m currently working on **AWS Analytics & QuickSight project, where I’m deepening my skills in building cloud-based dashboards, analyzing datasets using AWS services, and developing scalable, data-driven solutions.**
 - 🌱 I’m currently expanding my expertise in **AWS Cloud Analytics and SAP S/4HANA, focusing on scalable data solutions, cloud-based reporting, and enterprise resource planning systems.**
