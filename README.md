@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Banner" width="300" height="150";/>
+    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Banner" width="3000" height="150"/>
 " />
   </a>
 </p>
