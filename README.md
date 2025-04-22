@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ishita Rajpal</h1>
-<h3 align="center">Business Intelligence | Data Analyst | Dashboards | Data-Driven Decision Making | KPI Tracking </h3>
-
 <p align="center">
   <a href="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Banner" width="3500" height="400"/>
+    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Banner" width="3700" height="400"/>
   </a>
 </p>
+
+<h1 align="center">Hi 👋, I'm Ishita Rajpal</h1>
+<h3 align="center">Business Intelligence | Data Analytics | Dashboards | Data-Driven Decision Making | KPI Tracking </h3>
+
+
 
 - 🔭 I’m currently working on **AWS Analytics & QuickSight project, where I’m deepening my skills in building cloud-based dashboards, analyzing datasets using AWS services, and developing scalable, data-driven solutions.**
 - 🌱 I’m currently expanding my expertise in **AWS Cloud Analytics and SAP S/4HANA, focusing on scalable data solutions, cloud-based reporting, and enterprise resource planning systems.**
