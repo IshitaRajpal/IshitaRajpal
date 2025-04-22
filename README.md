@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Banner" width="3700" height="400"/>
+    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Banner" width="3700" height="300"/>
   </a>
 </p>
 
